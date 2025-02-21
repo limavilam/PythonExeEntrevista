@@ -9,7 +9,7 @@ def encontrar_max(entrada):
             maximo = i
     return maximo
 
-print(encontrar_max(entrada))
+print("El número máximo es:",encontrar_max(entrada))
 
 
 def encontrar_min(entrada):
@@ -20,3 +20,4 @@ def encontrar_min(entrada):
     return maximo
 
 print(encontrar_min(entrada))
+
